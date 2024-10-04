@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [My Site](https://github.com/kam106/neocities)
 
-- 📣 You can also find my other links [Here](https://resite.link/kam106)
+- 📣 You can also find my other links [here](https://resite.link/kam106)
 
 - 📝 I regularly write articles on [https://kam106.neocities.org/blog/](https://kam106.neocities.org/blog/)
 
@@ -33,8 +33,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kam106&show_icons=true&theme=dark&locale=en&layout=compact" alt="kam106" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kam106&show_icons=true&theme=dark&locale=en" alt="kam106" /></p>
 
