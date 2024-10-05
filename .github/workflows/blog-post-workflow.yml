@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
-                feed_list: 'https://punkto.org/zonerender?https://kam106.neocities.org/blog/archive, https://journal.miso.town/atom?url=https://kam106.neocities.org/journal.html'
+                max_post_count: "3"
+                feed_list: "https://punkto.org/zonerender?https://kam106.neocities.org/blog/archive"
