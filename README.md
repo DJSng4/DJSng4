@@ -1,1 +1,2 @@
-
+Contributor, former moderator and active community member of [Music Presence](https://github.com/DJSng106/placeholder/tree/webfishing).  
+Also the owner of a [Neocities page](https://djsng.neocities.org)
