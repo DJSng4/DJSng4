@@ -7,14 +7,7 @@ Hi, I'm DJSng! I make things because I like to try things.
 I may or may not be good at it.
 
 # 🔧 Contributions:
-* [Toolkit by DJSng's Toolkit](https://github.com/DJSng-s-Toolkit/toolkit)
-  * Organization owner
-  * Lead management
-* [djsng.neocities.org](https://djsng.neocities.org)
-  * Owner
-* [Music Presence](https://github.com/ungive/discord-music-presence)
-  * Contributor (docs, bot FAQ macros, etc)
-  * Beta tester
-  * Former moderator (April - June 2025)
-* [wintr.neocities.org](https://wintr.neocities.org)
-  * Minor contributions (typo correction, documentation, refactoring)
+* [Toolkit by DJSng's Toolkit](https://github.com/DJSng-s-Toolkit/toolkit) (lead management)
+* [djsng.neocities.org](https://djsng.neocities.org) (lead management)
+* [Music Presence](https://github.com/ungive/discord-music-presence) (contributor & tester, former moderator)
+* [wintr.neocities.org](https://wintr.neocities.org) (minor edits & cleanup)
